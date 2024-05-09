@@ -1,16 +1,3 @@
-```lua
-  do do do do do do do do do do do do
-  if
-  do
-  end
-  local
-  for
-  then
-  repeat
-  until
-  "hi"
-  007
-  false
-  true
-  0x1
-```
+juego al pou y le hago mods pero me los quedo muajaja okno
+
+tambien uso roblos porque si y por el .lua
